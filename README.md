@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️I'm currently doing a MERN Full Stack project<br>✍️Ask me anything on Problem Solving<br>📧Reach me at [rajkousik20@gmail.com](rajkousik20@gmail.com)<br>😄Fact -  I'm part of an online coding community, and I love helping fellow programmers troubleshoot their code and sharing knowledge.<br>😆Fun Fact - I often find myself thinking about coding problems even when I'm away from the computer. Some of my best 'aha' moments have happened during random moments like taking a shower!
+🖥️ I'm currently doing a MERN Full Stack project<br>✍️ Ask me anything on Problem Solving<br>📧 Reach me at [rajkousik20@gmail.com](rajkousik20@gmail.com)<br>😄 Fact -  I'm part of an online coding community, and I love helping fellow programmers troubleshoot their code and sharing knowledge.<br>😆 Fun Fact - I often find myself thinking about coding problems even when I'm away from the computer. Some of my best 'aha' moments have happened during random moments like taking a shower!
 
 
 ## 🌐 Socials:
